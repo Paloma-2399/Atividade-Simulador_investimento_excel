@@ -1,6 +1,6 @@
 # Atividade-Simulador_investimento_excel
 
-Dentro da pasta Arquivo excel, você encontrará um arquivo simulador de investimento em - Fundos Imobiliários.
+Clique no arquivo excel Simulador_investimentos_Fundos_Imobiliarios.
 Com este arquivo você poderá:
 - Simular aportes com base em seu salário bruto;
 - Estimar rendimento;
